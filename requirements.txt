@@ -4,7 +4,7 @@ requests==2.20.0
 faker==2.0.2
 africastalking==1.1.8
 raven==6.5.0
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 django-environ==0.4.5
 nexmo==2.4.0
 
